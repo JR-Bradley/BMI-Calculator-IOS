@@ -1,0 +1,9 @@
+/Users/jb4/Desktop/Repos/BMI-Calculator-IOS/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.csproj.CoreCompileInputs.cache
+/Users/jb4/Desktop/Repos/BMI-Calculator-IOS/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/jb4/Desktop/Repos/BMI-Calculator-IOS/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/actool/_PartialAppManifest.items
+/Users/jb4/Desktop/Repos/BMI-Calculator-IOS/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/jb4/Desktop/Repos/BMI-Calculator-IOS/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/optimized/
+/Users/jb4/Desktop/Repos/BMI-Calculator-IOS/BMICalculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.exe
+/Users/jb4/Desktop/Repos/BMI-Calculator-IOS/BMICalculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.pdb
+/Users/jb4/Desktop/Repos/BMI-Calculator-IOS/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.exe
+/Users/jb4/Desktop/Repos/BMI-Calculator-IOS/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.pdb
