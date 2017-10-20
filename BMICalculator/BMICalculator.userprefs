@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{2CB92441-964B-4B36-8E8A-02530FFF443A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BMICalculator/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BMICalculator/ViewController.cs">
     <Files>
-      <File FileName="BMICalculator/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="BMICalculator/Main.storyboard" />
-      <File FileName="BMICalculator/ViewController.cs" Line="18" Column="13" />
+      <File FileName="BMICalculator/ViewController.cs" Line="1" Column="1" />
       <File FileName="BMICalculator/Main.cs" Line="12" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
@@ -13,7 +12,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BMICalculator PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3CB18385-AEA0-4086-B64B-361F47381D3E">
-    <MonoDevelop.MacDev.AppleDevelopmentTeam />
-  </MonoDevelop.Ide.ItemProperties.BMICalculator>
+  <MonoDevelop.Ide.ItemProperties.BMICalculator PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3CB18385-AEA0-4086-B64B-361F47381D3E" />
 </Properties>
